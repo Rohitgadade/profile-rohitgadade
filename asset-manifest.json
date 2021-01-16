@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/profile-rohitgadade/static/css/main.99b16495.chunk.css",
+    "main.js": "/profile-rohitgadade/static/js/main.47632df0.chunk.js",
+    "main.js.map": "/profile-rohitgadade/static/js/main.47632df0.chunk.js.map",
+    "runtime-main.js": "/profile-rohitgadade/static/js/runtime-main.7402aa22.js",
+    "runtime-main.js.map": "/profile-rohitgadade/static/js/runtime-main.7402aa22.js.map",
+    "static/js/2.435f20b1.chunk.js": "/profile-rohitgadade/static/js/2.435f20b1.chunk.js",
+    "static/js/2.435f20b1.chunk.js.map": "/profile-rohitgadade/static/js/2.435f20b1.chunk.js.map",
+    "static/js/3.7eee94b5.chunk.js": "/profile-rohitgadade/static/js/3.7eee94b5.chunk.js",
+    "static/js/3.7eee94b5.chunk.js.map": "/profile-rohitgadade/static/js/3.7eee94b5.chunk.js.map",
+    "index.html": "/profile-rohitgadade/index.html",
+    "static/css/main.99b16495.chunk.css.map": "/profile-rohitgadade/static/css/main.99b16495.chunk.css.map",
+    "static/js/2.435f20b1.chunk.js.LICENSE.txt": "/profile-rohitgadade/static/js/2.435f20b1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/profile-rohitgadade/static/media/bgImage.8d009e1b.jpg",
+    "static/media/profile.264c9191.jpg": "/profile-rohitgadade/static/media/profile.264c9191.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7402aa22.js",
+    "static/js/2.435f20b1.chunk.js",
+    "static/css/main.99b16495.chunk.css",
+    "static/js/main.47632df0.chunk.js"
+  ]
+}
