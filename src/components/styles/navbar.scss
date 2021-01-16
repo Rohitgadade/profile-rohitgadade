@@ -1,0 +1,21 @@
+.navbar-brand {
+	border-bottom: 0.2vh solid transparent;
+	outline: 0;
+}
+
+.navbar-brand:hover {
+	border-bottom: 0.2vh solid white;
+	outline: 0;
+}
+
+.header-page {
+	position: relative;
+	width: 100%;
+}
+
+@import "../../../node_modules/bootstrap/scss/bootstrap.scss";
+// $bg-dark: white;
+
+// .nav {
+// 	background-color: $bg-dark;
+// }

@@ -1,0 +1,13 @@
+.home {
+	position: relative;
+	height: 50vh;
+	margin: 0 auto;
+}
+.home h1 {
+	/* font-size: 5vh; */
+	color: white;
+	transform: translate(-50%, -50%);
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
