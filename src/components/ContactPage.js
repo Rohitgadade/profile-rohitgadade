@@ -6,9 +6,10 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const ContactPage = () => {
 	return (
 		<div class="container-fluid">
-			<div class="row ">
-				<div class="d-flex align-items-center justify-content-center mt-5 ">
-					<div class="card p-4 m-4">
+			<div class="row " >
+				<div  class="d-flex align-items-center justify-content-center mt-5 ">
+					<div class="card shadow-lg  m-5 rounded bg-light mt-5">
+						<div class="card-body-contact p-4">
 						<legend class="text-center mt-3">
 							<strong>Contact me</strong>
 						</legend>
@@ -25,6 +26,7 @@ const ContactPage = () => {
 							>
 								<FontAwesomeIcon icon={faEnvelope} />: rohitgadade1997@gmail.com
 							</a>
+						</div>
 						</div>
 					</div>
 				</div>

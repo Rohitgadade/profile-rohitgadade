@@ -1,0 +1,7 @@
+@import "../../../node_modules/bootstrap/scss/bootstrap.scss";
+
+$bg-light:#FFF59D;
+// $bg-white: rgb(250, 250, 250);
+.card-body-project{
+	background-color: $bg-light;
+}

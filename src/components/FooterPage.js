@@ -4,7 +4,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
 	faLinkedinIn,
 	faGithub,
-	faTwitter,
 } from "@fortawesome/free-brands-svg-icons";
 
 class FooterPage extends Component {
@@ -33,17 +32,6 @@ class FooterPage extends Component {
 								<FontAwesomeIcon icon={faGithub} />
 							</a>
 						</div>
-						<div>
-							<a
-								href="https://twitter.com/rohitgadade_123"
-								target="_blank"
-								rel="noreferrer"
-								className="mr-4 text-light py-0"
-							>
-								<FontAwesomeIcon icon={faTwitter} />
-							</a>
-						</div>
-
 						<div>
 							<p className=" mr-4 mt-3 text-light text-decoration-none py-0">
 								&copy; {new Date().getFullYear()} Copyright.

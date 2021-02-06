@@ -1,13 +1,19 @@
 .home {
 	position: relative;
-	height: 50vh;
+	height: 83vh;
 	margin: 0 auto;
 }
 .home h1 {
-	/* font-size: 5vh; */
-	color: white;
+	font-size: 5vh; 
+	color:white;
 	transform: translate(-50%, -50%);
 	position: absolute;
 	top: 50%;
 	left: 50%;
 }
+
+.bgHome {background: url(../../../src//Images/bgImage.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover; }

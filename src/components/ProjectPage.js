@@ -11,8 +11,8 @@ class ProjectPage extends Component {
 					</h1>
 					<div class="col-sm ">
 						<div class="d-flex align-items-center justify-content-center  ">
-							<div class="card  shadow-lg p-3 m-5 rounded   ">
-								<div class="card-body  ">
+							<div class="card  shadow-lg  m-5 rounded  ">
+								<div class="card-body-project p-4">
 									<p class="card-text text-left">
 										<h5 class="card-title">
 											1. Energy wastage prediction using machine learning
@@ -30,8 +30,8 @@ class ProjectPage extends Component {
 					</div>
 					<div class="col-sm">
 						<div class="d-flex align-items-center justify-content-center  ">
-							<div class="card shadow-lg p-3 m-5 rounded bg-light mt-5">
-								<div class="card-body  ">
+							<div class="card shadow-lg m-5 rounded bg-light mt-5">
+								<div class="card-body-project  p-3">
 									<p class="card-text text-left">
 										<h5 class="card-title">
 											2. Blood Bank Application in android

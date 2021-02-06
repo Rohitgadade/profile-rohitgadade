@@ -10,8 +10,8 @@ class AboutPage extends Component {
 				<div class="row ">
 					<div class="col-sm  ">
 						<div class="d-flex align-items-center justify-content-center  ">
-							<div class="card  shadow-lg p-3 m-5 rounded ">
-								<div class="card-body ">
+							<div class="card shadow-lg mb-5 rounded m-5">
+								<div class="card-body-about p-4">
 									<h3 class="card-title text-center">
 										<strong>About me </strong>
 									</h3>
@@ -19,7 +19,7 @@ class AboutPage extends Component {
 										<img
 											src={Images}
 											alt="Rohit_Gadade_Profile"
-											class="img-fluid img-thumbnail bg-light"
+											
 											style={{
 												width: "25vh",
 												height: "25vh",
@@ -41,8 +41,8 @@ class AboutPage extends Component {
 					</div>
 					<div class="col-sm ">
 						<div class="d-flex align-items-center justify-content-center ">
-							<div class="card shadow-lg p-3 m-5 rounded bg-light ">
-								<div class="card-body  ">
+							<div class="card shadow-lg  m-5 rounded bg-light ">
+								<div class="card-body-about p-4">
 									<h4 class="card-title text-center">
 										<strong>Skills </strong>
 									</h4>
